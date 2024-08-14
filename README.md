@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Raphael Bueno, welcome to my GIT HUB! 👋
 
 <!--
 **raphaelbueno8/raphaelbueno8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
